@@ -8,3 +8,7 @@ class Solution {
     }
    
 }
+
+
+// System.arraycopy(arr, 0, result, i * arr.length, arr.length);
+//System.arraycopy(sourceArray, sourceStartIndex, destinationArray, destinationStartIndex,numberOfElementsToCopy);
