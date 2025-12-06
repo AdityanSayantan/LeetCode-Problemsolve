@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
