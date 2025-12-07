@@ -6,7 +6,7 @@ class Solution {
         }
         
         // Use long to avoid overflow
-        long result = (long) dividend / (long) divisor;
+        long result =  dividend /  divisor;
         
         // Check bounds
         if (result > Integer.MAX_VALUE) return Integer.MAX_VALUE;
