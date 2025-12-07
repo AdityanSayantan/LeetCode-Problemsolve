@@ -1,6 +1,6 @@
 class Solution {
     public int countOdds(int low, int high) {
-      // Actuall what i have done that is showing TLE
+      // Actually what i have done that is showing TLE
       // Apart from that i can use mathematical approach
       int count = 0;
       // low and high both are even
