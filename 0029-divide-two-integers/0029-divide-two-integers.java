@@ -9,6 +9,8 @@ class Solution {
         double result =  dividend /  divisor;
         
         // Check bounds
+        // edge case result should be in the limit
+        // i.e -2,147,483,648(MIN) to 2,147,483,647 (MAX)
         if (result > Integer.MAX_VALUE) return Integer.MAX_VALUE;
         if (result < Integer.MIN_VALUE) return Integer.MIN_VALUE;
         
