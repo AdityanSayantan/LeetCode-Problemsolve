@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0013-roman-to-integer) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
