@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0058-length-of-last-word) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
