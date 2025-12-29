@@ -4,8 +4,7 @@ class Solution {
         int maxCount=0;
         for(int i=0;i<nums.length;i++){
             if(nums[i] == 1){
-                count++;
-               
+                count++; 
             }else{
                 maxCount = Math.max(maxCount, count);
                 count = 0;
