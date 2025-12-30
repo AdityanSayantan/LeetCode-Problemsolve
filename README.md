@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1470-shuffle-the-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
