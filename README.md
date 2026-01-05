@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1975-maximum-matrix-sum](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Stack
@@ -161,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
