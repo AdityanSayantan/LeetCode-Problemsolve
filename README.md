@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
