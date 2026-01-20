@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 ## Counting Sort
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
