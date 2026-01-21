@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0118-pascals-triangle) |
+| [0134-gas-station](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0134-gas-station) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1975-maximum-matrix-sum](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
