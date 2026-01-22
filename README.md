@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0206-reverse-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -217,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1266-minimum-time-visiting-all-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
