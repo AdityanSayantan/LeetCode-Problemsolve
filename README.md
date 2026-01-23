@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0053-maximum-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0171-excel-sheet-column-number) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
