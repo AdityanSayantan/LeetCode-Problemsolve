@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
