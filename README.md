@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
