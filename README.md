@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3379-transformed-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3583-count-special-triplets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
