@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3583-count-special-triplets) |
+| [3634-minimum-removals-to-balance-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3634-minimum-removals-to-balance-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
@@ -259,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
