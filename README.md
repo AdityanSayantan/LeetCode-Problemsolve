@@ -221,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
 |  |
