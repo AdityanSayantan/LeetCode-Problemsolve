@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0263-ugly-number) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3634-minimum-removals-to-balance-array) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
