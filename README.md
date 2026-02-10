@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0724-find-pivot-index) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
