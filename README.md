@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3379-transformed-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1925-count-square-sum-triples) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0206-reverse-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
