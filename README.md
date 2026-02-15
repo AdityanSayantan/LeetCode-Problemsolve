@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3379-transformed-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3379-transformed-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0168-excel-sheet-column-title) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0344-reverse-string) |
