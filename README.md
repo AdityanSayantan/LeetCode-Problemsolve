@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
