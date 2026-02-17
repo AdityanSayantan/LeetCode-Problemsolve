@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0401-binary-watch) |
 ## Segment Tree
 |  |
 | ------- |
