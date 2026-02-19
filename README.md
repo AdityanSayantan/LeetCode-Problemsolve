@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0696-count-binary-substrings](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Brainteaser
 |  |
