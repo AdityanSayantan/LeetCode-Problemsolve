@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0868-binary-gap) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
