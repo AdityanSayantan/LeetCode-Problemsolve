@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3583-count-special-triplets) |
 | [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Enumeration
 |  |
@@ -300,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3719-longest-balanced-subarray-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
