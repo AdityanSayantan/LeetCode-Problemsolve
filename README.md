@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3379-transformed-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3379-transformed-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Enumeration
