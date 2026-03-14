@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Enumeration
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0401-binary-watch) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Segment Tree
 |  |
 | ------- |
