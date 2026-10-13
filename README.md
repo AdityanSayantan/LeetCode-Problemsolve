@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1975-maximum-matrix-sum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/0020-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdityanSayantan/LeetCode-Problemsolve/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
